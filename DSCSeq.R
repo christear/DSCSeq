@@ -1,7 +1,7 @@
 ###############################################
 # It's a script to analyze splicing change in count data from high-throughput sequencing based on a rank product test.
 # It is used to identify differential splicing events in exon/intron level, In particular, it will indentify up and down
-# regulated exon/intron under one condition against another condition. eg case and control , patients and normal , two
+# regulated exon/intron splicing change under one condition against another condition. eg case and control , patients and normal , two
 # different tissue or female and male ...
 # ZHANG bin -2013 - 02 - 18
 ###############################################

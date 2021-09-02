@@ -1,0 +1,11 @@
+Package: DSCSeq2
+Type: Package
+Title: Differential Splicing Change analysis based on the rank product test
+Version: 0.2.0
+Author: ZHANG Bin
+DataL: 2016-05-13
+Maintainer: ZHANG Bin <zb.picb@gmail.com>
+Depends: RankProd, ggplot2
+Description: quantify splicing change with high-throughput sequencing data and estimate significant with rank product/(rank sum) test.  
+License: What license is it under?
+LazyData: TRUE
